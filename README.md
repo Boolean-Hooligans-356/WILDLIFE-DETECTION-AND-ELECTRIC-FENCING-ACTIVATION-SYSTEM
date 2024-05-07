@@ -1,0 +1,2 @@
+# WILDLIFE-DETECTION-AND-ELECTRIC-FENCING-ACTIVATION-SYSTEM
+WDEFAS swiftly identifies wildlife using computer vision, activating electric fencing to mitigate conflicts. The YOLO model detects animals like elephants. Raspberry Pi communicates with Arduino Uno to regulate current for fencing, adjusting voltages based on detected species. Fencing deactivates when no wildlife is present, reducing conflicts.
