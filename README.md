@@ -35,6 +35,9 @@ The Wildlife Detection and Electric Fencing Activation System is a solution desi
   - YOLOv5 Model: Trained to detect elephants and other animals.
   - Arduino Code: Controls the behavior of the system based on detection events.
   - Python Scripts: Interface between the YOLOv5 model and the Arduino UNO for detection response.
+
+ ## Contributing
+    Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
  
 
 
